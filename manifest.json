@@ -1,0 +1,7 @@
+{
+  "name": "globalpaq-app",
+  "short_name": "globalpaq-app",
+  "description": "Prueba de APi RESt GlobalPaq",
+  "start_url": "/",
+  "display": "standalone"
+}
